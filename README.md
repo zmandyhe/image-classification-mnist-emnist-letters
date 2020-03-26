@@ -11,7 +11,15 @@ The project is to train a deep neural network to classify images on MNIST and EM
 * cv2
 * matplotlib
 
-### References
-* Michael Nielsen's [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+## Vanishing Gradient Problem
+When training the neural network, during the backpropogation in each subsequent layer, the gradient in earlier layers get exponientially smaller and smaller (vanishing), which makes the network learning very little/slow to improve.  
+![Vanishing Gradient]()
 
-## Discussion
+
+
+## Dead ReLu Problem
+
+## Strategy to Avoid Overfitting
+
+## References
+* Michael Nielsen's [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/)
