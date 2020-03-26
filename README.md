@@ -2,13 +2,14 @@
 The project is to train a deep neural network to classify images on MNIST and EMNIST datasets.
 
 **Summary of Accuracy on MNIST**
-    - training accuracy: 99.92%
-    - validation accuracy: 99.60%
-    - test accuracy: 99.48%
+- training accuracy: 99.92%
+- validation accuracy: 99.60%
+- test accuracy: 99.48%
+
 **Summary of Accuracy on EMNIST**
-    - training accuracy: 98.7%
-    - validation accuracy: 95.1%
-    - test accuracy: 94.9%
+- training accuracy: 98.7%
+- validation accuracy: 95.1%
+- test accuracy: 94.9%
 
 ## Environment and Run Jupyter Notebook
 
