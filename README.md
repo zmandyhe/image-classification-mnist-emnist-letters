@@ -13,7 +13,7 @@ The project is to train a deep neural network to classify images on MNIST and EM
 
 ## Vanishing Gradient Problem
 When training the neural network, during the backpropogation in each subsequent layer, the gradient in earlier layers get exponientially smaller and smaller (vanishing), which makes the network learning very little/slow to improve.  
-![Vanishing Gradient](https://github.com/zmandyhe/image-classification-mnist-emnist-letters.git/pic/vanishing-gradient.png)
+![Vanishing Gradient](https://github.com/zmandyhe/image-classification-mnist-emnist-letters.git/blob/pic/vanishing-gradient.png)
 
 
 
